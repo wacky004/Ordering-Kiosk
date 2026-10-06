@@ -1,0 +1,21 @@
+{
+  "name": "mcdo-kiosk",
+  "version": "2.0.0",
+  "private": true,
+  "description": "McDonald's style self-ordering kiosk (server + offline single-file demo) for classroom teaching",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "reset": "node src/db.js --reset",
+    "images": "node scripts/fetch-images.js",
+    "build:single": "node scripts/build-single.js",
+    "open": "node scripts/build-single.js && node scripts/open-file.js",
+    "kiosk": "node scripts/build-single.js && start-kiosk.bat",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1"
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "generatedAt": "2026-09-30T00:04:10.253Z",
+  "items": [
+    {
+      "slug": "burger-mcdo",
+      "item": "Burger McDo",
+      "title": "File:Cheeseburger.jpg",
+      "author": "Renee Comet (photographer)",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheeseburger.jpg"
+    },
+    {
+      "slug": "cheeseburger-mcdo",
+      "item": "Cheeseburger McDo",
+      "title": "File:Cheeseburger.jpg",
+      "author": "Renee Comet (photographer)",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheeseburger.jpg"
+    },
+    {
+      "slug": "double-cheeseburger",
+      "item": "Double Cheeseburger",
+      "title": "File:Cheeseburger.jpg",
+      "author": "Renee Comet (photographer)",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheeseburger.jpg"
+    },
+    {
+      "slug": "big-mac",
+      "item": "Big Mac",
+      "title": "File:Big Mac hamburger - Australia.jpg",
+      "author": "No machine-readable author provided. Matilda assumed (based on copyright claims).",
+      "license": "CC BY-SA 2.5",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Big_Mac_hamburger_-_Australia.jpg"
+    },
+    {
+      "slug": "mcchicken",
+      "item": "McChicken",
+      "title": "File:McD-Classic-Grilled-Chicken-Sand.jpg",
+      "author": "Evan-Amos",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:McD-Classic-Grilled-Chicken-Sand.jpg"
+    },
+    {
+      "slug": "mccrispy-chicken-fillet",
+      "item": "McCrispy Chicken Fillet",
+      "title": "File:BK Original Chicken Sandwich.JPG",
+      "author": "BrokenSphere",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BK_Original_Chicken_Sandwich.JPG"
+    },
+    {
+      "slug": "quarter-pounder-with-cheese",
+      "item": "Quarter Pounder with Cheese",
+      "title": "File:Avocado bacon cheeseburger and pineapple smoothie.jpg",
+      "author": "Photographer: Kyle T. Ramirez",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avocado_bacon_cheeseburger_and_pineapple_smoothie.jpg"
+    },
+    {
+      "slug": "1-pc-chicken-mcdo-w-rice",
+      "item": "1-pc Chicken McDo w/ Rice",
+      "title": "File:Orange chicken with fried rice (6248047264).jpg",
+      "author": "jeffreyw",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orange_chicken_with_fried_rice_(6248047264).jpg"
+    },
+    {
+      "slug": "2-pc-chicken-mcdo-w-rice",
+      "item": "2-pc Chicken McDo w/ Rice",
+      "title": "Airline Meal: stir-fried chicken with rice and pickled vegetables",
+      "author": "brownpau",
+      "license": "by 2.0",
+      "source": "Openverse",
+      "sourceUrl": "https://www.flickr.com/photos/44124483743@N01/6666441809"
+    },
+    {
+      "slug": "1-pc-spicy-chicken-mcdo-w-rice",
+      "item": "1-pc Spicy Chicken McDo w/ Rice",
+      "title": "File:Gaprao rice (Spicy minced chicken on rice with fried egg) (16413970650).jpg",
+      "author": "pelican from Tokyo, Japan",
+      "license": "CC BY-SA 2.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaprao_rice_(Spicy_minced_chicken_on_rice_with_fried_egg)_(16413970650).jpg"
+    },
+    {
+      "slug": "6-pc-chicken-mcnuggets",
+      "item": "6-pc Chicken McNuggets",
+      "title": "File:Chicken Nuggets.jpg",
+      "author": "James Palinsad",
+      "license": "CC BY-SA 2.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_Nuggets.jpg"
+    },
+    {
+      "slug": "10-pc-chicken-mcnuggets",
+      "item": "10-pc Chicken McNuggets",
+      "title": "File:McDonalds-Chicken-McNuggets.jpg",
+      "author": "Evan-Amos",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:McDonalds-Chicken-McNuggets.jpg"
+    },
+    {
+      "slug": "20-pc-chicken-mcnuggets",
+      "item": "20-pc Chicken McNuggets",
+      "title": "File:Chicken Nuggets.jpg",
+      "author": "James Palinsad",
+      "license": "CC BY-SA 2.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chicken_Nuggets.jpg"
+    },
+    {
+      "slug": "6-pc-chicken-mcshare-box",
+      "item": "6-pc Chicken McShare Box",
+      "title": "File:KFC Original Recipe chicken in bucket.jpg",
+      "author": "BrokenSphere",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KFC_Original_Recipe_chicken_in_bucket.jpg"
+    },
+    {
+      "slug": "8-pc-chicken-mcshare-box",
+      "item": "8-pc Chicken McShare Box",
+      "title": "File:KFC Original Recipe chicken in bucket.jpg",
+      "author": "BrokenSphere",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KFC_Original_Recipe_chicken_in_bucket.jpg"
+    },
+    {
+      "slug": "mcspaghetti-solo",
+      "item": "McSpaghetti Solo",
+      "title": "File:Vegan raw Spaghetti with dried tomato sauce (7439949118).jpg",
+      "author": "Lablascovegmenu from London",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vegan_raw_Spaghetti_with_dried_tomato_sauce_(7439949118).jpg"
+    },
+    {
+      "slug": "mcspaghetti-platter",
+      "item": "McSpaghetti Platter",
+      "title": "File:Aunt Jemima Pancake Flour, 1935.jpg",
+      "author": "Internet Archive Book Images",
+      "license": "No restrictions",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aunt_Jemima_Pancake_Flour,_1935.jpg"
+    },
+    {
+      "slug": "1-pc-chicken-mcdo-w-mcspaghetti",
+      "item": "1-pc Chicken McDo w/ McSpaghetti",
+      "title": "File:Chinese Style Mixed Grill.JPG",
+      "author": "Banej",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chinese_Style_Mixed_Grill.JPG"
+    },
+    {
+      "slug": "crispy-chicken-fillet-ala-king-w-rice",
+      "item": "Crispy Chicken Fillet Ala King w/ Rice",
+      "title": "File:McDonald's \"Chicken Fillet Ala King with Fries\" McSaver Meal.jpg",
+      "author": "RoyKabanlit",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:McDonald%27s_%22Chicken_Fillet_Ala_King_with_Fries%22_McSaver_Meal.jpg"
+    },
+    {
+      "slug": "cheesy-eggdesal",
+      "item": "Cheesy Eggdesal",
+      "title": "Bacon Lettuce Egg and Cheese Sandwich",
+      "author": "flyingroc",
+      "license": "by-sa 2.0",
+      "source": "Openverse",
+      "sourceUrl": "https://www.flickr.com/photos/8962549@N02/3329402361"
+    },
+    {
+      "slug": "sausage-mcmuffin-w-egg",
+      "item": "Sausage McMuffin w/ Egg",
+      "title": "Sausage Egg Muffin x2",
+      "author": "inazakira",
+      "license": "by-sa 2.0",
+      "source": "Openverse",
+      "sourceUrl": "https://www.flickr.com/photos/47573122@N05/8392755066"
+    },
+    {
+      "slug": "egg-mcmuffin",
+      "item": "Egg McMuffin",
+      "title": "File:McD-Egg-McMuffin.jpg",
+      "author": "Evan-Amos",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:McD-Egg-McMuffin.jpg"
+    },
+    {
+      "slug": "2-pc-hotcakes",
+      "item": "2-pc Hotcakes",
+      "title": "File:Pancakes with chocolate syrup, hazelnuts, and cherries 02.jpg",
+      "author": "Crisco 1492",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pancakes_with_chocolate_syrup,_hazelnuts,_and_cherries_02.jpg"
+    },
+    {
+      "slug": "big-breakfast",
+      "item": "Big Breakfast",
+      "title": "File:Full English Bigger Breakfast, Sainsbury's Low Hall, Chingford, London, England focus 1.jpg",
+      "author": "Acabashi",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Full_English_Bigger_Breakfast,_Sainsbury%27s_Low_Hall,_Chingford,_London,_England_focus_1.jpg"
+    },
+    {
+      "slug": "mcfries-regular",
+      "item": "McFries Regular",
+      "title": "File:Plate of chips at the Chalet Cafe, Cowfold, West Sussex, England.jpg",
+      "author": "Acabashi",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plate_of_chips_at_the_Chalet_Cafe,_Cowfold,_West_Sussex,_England.jpg"
+    },
+    {
+      "slug": "mcfries-medium",
+      "item": "McFries Medium",
+      "title": "File:Plate of chips at the Chalet Cafe, Cowfold, West Sussex, England.jpg",
+      "author": "Acabashi",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plate_of_chips_at_the_Chalet_Cafe,_Cowfold,_West_Sussex,_England.jpg"
+    },
+    {
+      "slug": "mcfries-large",
+      "item": "McFries Large",
+      "title": "File:Plate of chips at the Chalet Cafe, Cowfold, West Sussex, England.jpg",
+      "author": "Acabashi",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Plate_of_chips_at_the_Chalet_Cafe,_Cowfold,_West_Sussex,_England.jpg"
+    },
+    {
+      "slug": "bff-fries",
+      "item": "BFF Fries",
+      "title": "File:Fries Museum 1603.jpg",
+      "author": "C messier",
+      "license": "CC BY-SA 4.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fries_Museum_1603.jpg"
+    },
+    {
+      "slug": "twister-fries",
+      "item": "Twister Fries",
+      "title": "File:Curly fries, Moonstar Buffet.JPG",
+      "author": "BrokenSphere",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Curly_fries,_Moonstar_Buffet.JPG"
+    },
+    {
+      "slug": "apple-pie",
+      "item": "Apple Pie",
+      "title": "File:2m apple pie.jpg",
+      "author": "Minoruoonaka",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2m_apple_pie.jpg"
+    },
+    {
+      "slug": "vanilla-cone",
+      "item": "Vanilla Cone",
+      "title": "File:Almond and Cherry Soft Serve Ice Cream Cone 2011.jpg",
+      "author": "tara hunt from Montreal, Canada",
+      "license": "CC BY-SA 2.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Almond_and_Cherry_Soft_Serve_Ice_Cream_Cone_2011.jpg"
+    },
+    {
+      "slug": "hot-fudge-sundae",
+      "item": "Hot Fudge Sundae",
+      "title": "fro-zen-yo Hot Fudge Sundae",
+      "author": "Mr.TinDC",
+      "license": "by-nd 2.0",
+      "source": "Openverse",
+      "sourceUrl": "https://www.flickr.com/photos/7471115@N08/4384053060"
+    },
+    {
+      "slug": "mcflurry-with-oreo",
+      "item": "McFlurry with Oreo",
+      "title": "McFlurry with Reese's",
+      "author": "theimpulsivebuy",
+      "license": "by-sa 2.0",
+      "source": "Openverse",
+      "sourceUrl": "https://www.flickr.com/photos/27410581@N07/6518549825"
+    },
+    {
+      "slug": "coke-mcfloat",
+      "item": "Coke McFloat",
+      "title": "File:Float Bay near Stoneykirk, Stranraer, Wigtownshire - geograph.org.uk - 137739.jpg",
+      "author": "Colin McDonald",
+      "license": "CC BY-SA 2.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Float_Bay_near_Stoneykirk,_Stranraer,_Wigtownshire_-_geograph.org.uk_-_137739.jpg"
+    },
+    {
+      "slug": "chocolate-shake",
+      "item": "Chocolate Shake",
+      "title": "File:Chocolate Milkshake (Rudford's Restaurant).jpg",
+      "author": "Visitor7",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chocolate_Milkshake_(Rudford%27s_Restaurant).jpg"
+    },
+    {
+      "slug": "coke-regular",
+      "item": "Coke Regular",
+      "title": "File:15-09-26-RalfR-WLC-0098 - Coca-Cola glass bottle (Germany).jpg",
+      "author": "Ralf Roletschek",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0098_-_Coca-Cola_glass_bottle_(Germany).jpg"
+    },
+    {
+      "slug": "coke-large",
+      "item": "Coke Large",
+      "title": "File:15-09-26-RalfR-WLC-0098 - Coca-Cola glass bottle (Germany).jpg",
+      "author": "Ralf Roletschek",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:15-09-26-RalfR-WLC-0098_-_Coca-Cola_glass_bottle_(Germany).jpg"
+    },
+    {
+      "slug": "sprite-regular",
+      "item": "Sprite Regular",
+      "title": "File:Seated inside at a table at Melt N Dip Crepe & Gelato in Temple Terrace, Florida, US, on 23 June 2026.jpg",
+      "author": "MatthewHoobin",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seated_inside_at_a_table_at_Melt_N_Dip_Crepe_%26_Gelato_in_Temple_Terrace,_Florida,_US,_on_23_June_2026.jpg"
+    },
+    {
+      "slug": "royal-regular",
+      "item": "Royal Regular",
+      "title": "File:Pyramine Orange Dye Bottle - DPLA - c44cd42f41ce935e453207ee0467849f (page 1).jpg",
+      "author": "",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pyramine_Orange_Dye_Bottle_-_DPLA_-_c44cd42f41ce935e453207ee0467849f_(page_1).jpg"
+    },
+    {
+      "slug": "coke-zero-regular",
+      "item": "Coke Zero Regular",
+      "title": "File:Arabic Coca-Cola and Fanta glass bottle.jpg",
+      "author": "Bernard Ladenthin",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arabic_Coca-Cola_and_Fanta_glass_bottle.jpg"
+    },
+    {
+      "slug": "iced-tea",
+      "item": "Iced Tea",
+      "title": "File:Glass of Iced Tea.jpg",
+      "author": "No machine-readable author provided. Zantastik~commonswiki assumed (based on copyright claims).",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Glass_of_Iced_Tea.jpg"
+    },
+    {
+      "slug": "brewed-coffee",
+      "item": "Brewed Coffee",
+      "title": "File:Coffee selections and fresh brewed cup.jpg",
+      "author": "darkliight",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coffee_selections_and_fresh_brewed_cup.jpg"
+    },
+    {
+      "slug": "orange-juice",
+      "item": "Orange Juice",
+      "title": "File:Orange juice 1 edit1.jpg",
+      "author": "Agency of the United States Department of Agriculture\nEdited Version by: Arad",
+      "license": "Public domain",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orange_juice_1_edit1.jpg"
+    },
+    {
+      "slug": "burger-mcdo-happy-meal",
+      "item": "Burger McDo Happy Meal",
+      "title": "049 Hollywood Hits Restaurant, Pizzas, Burgers & Kids' Meals",
+      "author": "The Fun Chronicles",
+      "license": "cc0 1.0",
+      "source": "Openverse",
+      "sourceUrl": "https://www.flickr.com/photos/196406308@N04/52344948855"
+    },
+    {
+      "slug": "mcspaghetti-happy-meal",
+      "item": "McSpaghetti Happy Meal",
+      "title": "PANCIT",
+      "author": "whologwhy",
+      "license": "by 2.0",
+      "source": "Openverse",
+      "sourceUrl": "https://www.flickr.com/photos/60417477@N00/5684999555"
+    },
+    {
+      "slug": "4-pc-mcnuggets-happy-meal",
+      "item": "4-pc McNuggets Happy Meal",
+      "title": "File:McDonald's Meal Japan.jpg",
+      "author": "Ryuta Ishimoto from Osaka, Japan",
+      "license": "CC BY-SA 2.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:McDonald%27s_Meal_Japan.jpg"
+    },
+    {
+      "slug": "1-pc-chicken-mcdo-happy-meal",
+      "item": "1-pc Chicken McDo Happy Meal",
+      "title": "File:Set meal with fried chicken of Nakau.JPG",
+      "author": "Tokumeigakarinoaoshima",
+      "license": "CC0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Set_meal_with_fried_chicken_of_Nakau.JPG"
+    },
+    {
+      "slug": "mcshare-bundle-for-3",
+      "item": "McShare Bundle for 3",
+      "title": "File:Italian (Mikazuki), Japanese local fast food.jpg",
+      "author": "tail_furry",
+      "license": "CC BY-SA 3.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Italian_(Mikazuki),_Japanese_local_fast_food.jpg"
+    },
+    {
+      "slug": "mcshare-bundle-for-4",
+      "item": "McShare Bundle for 4",
+      "title": "File:Bedu shepherd family near Palmyra, Syria - 2.jpg",
+      "author": "James Gordon from Los Angeles, California, USA",
+      "license": "CC BY 2.0",
+      "source": "Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bedu_shepherd_family_near_Palmyra,_Syria_-_2.jpg"
+    }
+  ]
+}

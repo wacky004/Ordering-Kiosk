@@ -1,0 +1,33 @@
+McDonald's Kiosk - offline demo
+================================
+
+HOW TO OPEN
+  1. Double-click mcdo-kiosk.html
+     That is the whole app - no server, no install, no internet needed.
+
+  Optional layouts:
+   mcdo-kiosk-mobile.html   always uses the phone layout
+   mcdo-kiosk-desktop.html  always uses the desktop layout
+
+DEMO ACCOUNTS
+  Customer : juan@email.com    / user123
+  Kitchen  : kitchen@mcdo.ph   / kitchen123
+  Cashier  : cashier@mcdo.ph   / cashier123
+  Manager  : manager@mcdo.ph   / manager123
+  Admin    : admin@mcdo.ph     / admin123
+
+TIP: open the guest launcher at #/demo to enter any role with one click.
+
+LIVE DEMO WITH TWO TABS
+  Open the Customer kiosk in one tab and the Kitchen display in another,
+  then place an order and advance it in the kitchen. The tracker updates live.
+
+Data is stored in this browser only (localStorage). Use the Admin screen
+"Reset demo data" button to start over.
+
+WANT THE FULL WEBSITE (with a real server and accounts)?
+  Go to the project folder and double-click:  START-WEBSITE.bat
+  Then open http://localhost:3000
+
+IF THE PAGE LOOKS BLANK
+  Press Ctrl+Shift+R once (hard refresh) to clear an old cached copy.
